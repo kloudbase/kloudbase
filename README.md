@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi, I'm a Platform/DevOps Engineer specializing in Kubernetes, CI/CD pipelines, and application deployments. I primarily work with GitHub Actions as my go-to CI platform and ArgoCD for streamlined, robust deployments. My focus is on creating seamless, automated workflows that empower teams to build and release software with speed and reliability. Off the clock, you'll find me wrestling Next.js and TypeScript projects, fitting things together in a TurboRepo monorepo. My love for automating anything that can be automated is so intense that even my Roomba is now considering filling out paperwork for stock options and a corner office. In fact, I've automated our household so much that my family are starting to wonder if they should speak in YAML to get my attention.
+
 <!--
 **kloudbase/kloudbase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
